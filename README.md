@@ -1,1 +1,1 @@
-# EasyMemo
+# HighTechMemory
